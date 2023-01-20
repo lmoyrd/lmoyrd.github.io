@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>全部文章 - 銀</title>
+        <title>全部記事 - 銀</title>
         <link>/posts/</link>
-        <description>全部文章 | 銀</description>
+        <description>全部記事 | 銀</description>
         <generator>Hugo -- gohugo.io</generator><language>jp</language><lastBuildDate>Fri, 20 Jan 2023 13:16:54 &#43;0800</lastBuildDate><atom:link href="/posts/" rel="self" type="application/rss+xml" /><item>
     <title>第一篇博客</title>
     <link>/posts/first-post/</link>
