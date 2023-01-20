@@ -1,1 +1,0 @@
-# lmoyrd.github.io
