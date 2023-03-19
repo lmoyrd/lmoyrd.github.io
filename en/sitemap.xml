@@ -2,20 +2,7 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
-            <loc>/en/about/</loc><lastmod>2023-01-20T14:38:22&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/about/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="jp"
-                        href="/about/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="en"
-                    href="/en/about/"
-                    /></url><url>
-            <loc>/en/posts/</loc><lastmod>2023-01-20T13:16:54&#43;08:00</lastmod><xhtml:link
+            <loc>/en/posts/</loc><lastmod>2023-03-19T18:25:00&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/posts/"
@@ -28,7 +15,7 @@
                     hreflang="en"
                     href="/en/posts/"
                     /></url><url>
-            <loc>/en/</loc><lastmod>2023-01-20T13:16:54&#43;08:00</lastmod><xhtml:link
+            <loc>/en/</loc><lastmod>2023-03-19T18:25:00&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="zh-cn"
                         href="/zh-cn/"
@@ -40,6 +27,32 @@
                     rel="alternate"
                     hreflang="en"
                     href="/en/"
+                    /></url><url>
+            <loc>/en/posts/the-right-thing-i-need-to-do-in-this-new-ai-era/</loc><lastmod>2023-03-19T18:25:00&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/posts/the-right-thing-i-need-to-do-in-this-new-ai-era/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="jp"
+                        href="/posts/the-right-thing-i-need-to-do-in-this-new-ai-era/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/en/posts/the-right-thing-i-need-to-do-in-this-new-ai-era/"
+                    /></url><url>
+            <loc>/en/about/</loc><lastmod>2023-01-20T14:38:22&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/about/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="jp"
+                        href="/about/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="en"
+                    href="/en/about/"
                     /></url><url>
             <loc>/en/posts/first-post/</loc><lastmod>2023-01-20T13:16:54&#43;08:00</lastmod><xhtml:link
                         rel="alternate"

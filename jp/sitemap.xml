@@ -2,6 +2,45 @@
     xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xhtml="http://www.w3.org/1999/xhtml"
     ><url>
+            <loc>/posts/</loc><lastmod>2023-03-19T18:25:00&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/posts/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/posts/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="jp"
+                    href="/posts/"
+                    /></url><url>
+            <loc>/posts/the-right-thing-i-need-to-do-in-this-new-ai-era/</loc><lastmod>2023-03-19T18:25:00&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/posts/the-right-thing-i-need-to-do-in-this-new-ai-era/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/posts/the-right-thing-i-need-to-do-in-this-new-ai-era/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="jp"
+                    href="/posts/the-right-thing-i-need-to-do-in-this-new-ai-era/"
+                    /></url><url>
+            <loc>/</loc><lastmod>2023-03-19T18:25:00&#43;08:00</lastmod><xhtml:link
+                        rel="alternate"
+                        hreflang="en"
+                        href="/en/"
+                        /><xhtml:link
+                        rel="alternate"
+                        hreflang="zh-cn"
+                        href="/zh-cn/"
+                        /><xhtml:link
+                    rel="alternate"
+                    hreflang="jp"
+                    href="/"
+                    /></url><url>
             <loc>/about/</loc><lastmod>2023-01-20T14:38:22&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -15,19 +54,6 @@
                     hreflang="jp"
                     href="/about/"
                     /></url><url>
-            <loc>/posts/</loc><lastmod>2023-01-20T13:16:54&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/en/posts/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/posts/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="jp"
-                    href="/posts/"
-                    /></url><url>
             <loc>/posts/first-post/</loc><lastmod>2023-01-20T13:16:54&#43;08:00</lastmod><xhtml:link
                         rel="alternate"
                         hreflang="en"
@@ -40,19 +66,6 @@
                     rel="alternate"
                     hreflang="jp"
                     href="/posts/first-post/"
-                    /></url><url>
-            <loc>/</loc><lastmod>2023-01-20T13:16:54&#43;08:00</lastmod><xhtml:link
-                        rel="alternate"
-                        hreflang="en"
-                        href="/en/"
-                        /><xhtml:link
-                        rel="alternate"
-                        hreflang="zh-cn"
-                        href="/zh-cn/"
-                        /><xhtml:link
-                    rel="alternate"
-                    hreflang="jp"
-                    href="/"
                     /></url><url>
             <loc>/categories/</loc><xhtml:link
                         rel="alternate"
